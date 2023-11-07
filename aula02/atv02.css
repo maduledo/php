@@ -1,0 +1,39 @@
+#ola {
+    background-color: red;
+    color:white;
+    height: 100px;
+    width: 1300px ;
+    text-align: center;
+    padding: 2%;
+    font-size: 50px;
+ }
+
+ #duda {
+    background-color: yellow;
+    color:white;
+    height: 100px;
+    width: 1300px ;
+    text-align: center;
+    padding: 2%;
+    font-size: 50px;
+ }
+
+ #tudo {
+    background-color:black ;
+    color:white;
+    height: 100px;
+    width: 1300px ;
+    text-align: center;
+    padding: 2%;
+    font-size: 50px;
+}
+
+#bem {
+    background-color:green;
+    color:white;
+    height: 100px;
+    width: 1300px ;
+    text-align: center;
+    padding: 2%;
+    font-size: 50px;
+}

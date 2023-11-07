@@ -1,0 +1,24 @@
+h1 {
+    background-color: aqua;
+}
+
+p {
+    background-color: brown;
+}
+
+h2 {
+    background-color: blueviolet;
+}
+
+#p2{
+    background-color: #eb88b1;
+}
+
+.stilo{
+    background-color: rgb(233, 233, 31);
+    height: 200px;
+    width: 600px;
+}
+
+
+
