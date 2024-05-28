@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(197, 155, 185);
+}
+
+h1{
+    background-color: rgb(172, 103, 161);
+    color:rgb(80, 19, 70);
+    text-align: center; 
+}
+
+h2{
+    background-color: rgb(172, 103, 161);
+    color:rgb(80, 19, 70); 
+}
+
+#customers {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #customers tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #customers tr:hover {background-color: #ddd;}
+  
+  #customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #e48de4;
+    color: white;}
